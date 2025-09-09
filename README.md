@@ -1,6 +1,6 @@
 # RayyanO# Hi there, I'm [Rayyan Osagie]! 👋
 
-![Banner Image](https://drive.google.com/file/d/1YyqNnelKUpkPxvTA2Xkkp0lfa7oFMfn2/view?usp=sharing)
+![Banner Image](https://github.com/ryanosagie806-dev/RayyanO/blob/main/ChatGPT%20Image%20Sep%209%2C%202025%2C%2003_33_50%20PM.png)
 
 ## About Me 🚀
 
