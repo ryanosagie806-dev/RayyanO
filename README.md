@@ -18,7 +18,7 @@ I'm a passionate **[Young aspiring engineer]** with experience in **[google work
 
 ### [Git&Git hub repository](https://github.com/ryanosagie806-dev/-LocalRepoProject)
 
-![Project 1 Screenshot](https://drive.google.com/file/d/1rsNcZLwZvcg4d0-vpg4LM_YdOkTTFqDv/view?usp=sharing)
+![Project 1 Screenshot](https://github.com/ryanosagie806-dev/RayyanO/blob/main/Screenshot%20(16).png)
 
 **[Project 1 Title]** is a **[“A foundational project focused on learning version control by creating a local repository, tracking changes with Git, and pushing code to GitHub to manage and share projects effectively.”]** built with **[Github]**. This project demonstrates my ability to **[be efficient and my problem solving skills]**. You can check out the repository [here](https://github.com/ryanosagie806-dev/-LocalRepoProject).
 
