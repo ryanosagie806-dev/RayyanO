@@ -1,6 +1,6 @@
 # RayyanO# Hi there, I'm [Rayyan Osagie]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1YyqNnelKUpkPxvTA2Xkkp0lfa7oFMfn2/view?usp=sharing)
 
 ## About Me 🚀
 
@@ -8,13 +8,11 @@ I'm a passionate **[Young aspiring engineer]** with experience in **[google work
 
 - 🌱 Currently learning: **[Front end Web development & Spanish]**
 - 🔭 Working on: **[Git&Github Repository Project]**
-- 🌍 Languages: **[C++ Java Script and English]**
+- 🌍 Languages: **[C++ and English]**
 - 📫 How to reach me: **[ryanosagie806@gmail.com +234907228313]**
 - ⚡ Fun fact: **[I enjoy pondering on deep phillosophical meaning of things and the "why" of some  aspect of life]**
 
 
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
